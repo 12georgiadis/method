@@ -14,8 +14,6 @@ This is not a tutorial. Not a framework. Not a manifesto in the traditional sens
 
 **AI as subject, not just tool.** The technology is never neutral in my work. When I use a generative model, the artifacts, the hallucinations, the biases are part of the film. The machine's failures are as valuable as its successes.
 
-**Class and access.** AI is a lever, not a privilege. I didn't come from money or from a family of artists. The tools I build and document here are shared because access matters. Open source is not ideology for me, it's survival strategy turned into practice.
-
 ---
 
 ### Influences
@@ -26,30 +24,55 @@ Films, books, artists, and thinkers that shaped this practice. Not a ranked list
 
 | | |
 |---|---|
-| Harun Farocki | *Parallel I-IV*, *Eye/Machine*. The foundational work on operational images and gaming as representation. |
+| Harun Farocki | *Parallel I-IV*, *Eye/Machine*. Operational images, gaming as representation. |
 | Chris Marker | *Sans Soleil*, *Level Five*. Essay film as research method. Memory as montage. |
+| Peter Tscherkassky | *Outer Space*. Cinema's experimental grammar at its origin. |
 | Hito Steyerl | *How Not to Be Seen*, *Duty Free Art*. Post-internet image politics. |
 | Forensic Architecture | Investigation as aesthetic practice. Spatial and temporal reconstruction. |
 | Philippe Grandrieux | *Sombre*, *Un lac*. The body as image beyond representation. |
+| Romain Champalaune | *Vie & Mort d'Oscar Perez*. |
 
-#### Theory & philosophy
+#### Art & digital art
 
 | | |
 |---|---|
-| Vilém Flusser | *Towards a Philosophy of Photography*. Technical images and apparatus. |
+| Gregory Chatonsky | Pioneer of net art and AI art. AI as transformation, not tool -- as profound as the invention of photography. |
+| Trevor Paglen | Machine vision, invisible images, AI and surveillance. |
+| Peter Burr | Visual patterns through video game engines. |
+| Xu Bing | Surveillance footage as artistic material. |
+| Mark Lombardi | Narrative structures. Data visualization as investigation. |
+| Holly Herndon & Mat Dryhurst | *Holly+*, Spawning. AI as collaborative creative entity. |
+| Ian Cheng | *Emissaries*. Autonomous simulations as narrative. |
+| Gerhard Richter | Painting at the limit of photography. |
+| Francis Bacon | The figure against representation. |
+
+#### Philosophy & theory
+
+| | |
+|---|---|
+| Roger Caillois | *Les jeux et les hommes*. Classification of play: mimicry, alea, agon, ilinx. |
+| Jacques Henriot | *Le jeu*. Philosophy of play as attitude, not object. |
+| Vilem Flusser | *Towards a Philosophy of Photography*. Technical images and apparatus. |
 | Gilbert Simondon | *On the Mode of Existence of Technical Objects*. Machines are not tools. |
 | Donna Haraway | *Staying with the Trouble*. Sympoiesis, making-with. |
 | Yuk Hui | *Art and Cosmotechnics*. Technology as culturally situated. |
 | Byung-Chul Han | *In the Swarm*. Digital culture and the crisis of narrative. |
 
-#### Digital art & AI art
+#### Video games & interactive
 
 | | |
 |---|---|
-| Trevor Paglen | Machine vision, invisible images, AI and surveillance. |
-| Holly Herndon & Mat Dryhurst | *Holly+*, Spawning. AI as collaborative creative entity. |
-| Refik Anadol | Large-scale data sculpture. (Disagree with the aesthetics, relevant to the discourse.) |
-| Ian Cheng | *Emissaries*. Autonomous simulations as narrative. |
+| *Yume Nikki* | Dream exploration as narrative structure. |
+| *Grand Theft Auto V* | Open world as found footage. Source material for *Swatted*. |
+| *Mr. Robot* | Fluid identity, paranoia, digital unreliable narrator. |
+| *A Scanner Darkly* | Rotoscope as document-fiction boundary. |
+
+#### Literature & journalism
+
+| | |
+|---|---|
+| Journalism as primary source | "The driving force behind my work is always an encounter, whether with people or by reading an article." |
+| Film criticism | The practice began through writing about cinema, not making it. |
 
 > This list is incomplete. It grows with the work.
 
@@ -83,4 +106,4 @@ Research is not a phase that precedes production. Research *is* production.
 
 ---
 
-[Website](https://ismaeljoffroychandoutis.com) · [Films](http://filmsgrandhuit.com/en/author/ismael-joffroy-chandoutis/) · [Vimeo](https://vimeo.com/ismaeljoffroychandoutis)
+[Website](https://ismaeljoffroychandoutis.com) . [Films](http://filmsgrandhuit.com/en/author/ismael-joffroy-chandoutis/) . [Vimeo](https://vimeo.com/ismaeljoffroychandoutis)
