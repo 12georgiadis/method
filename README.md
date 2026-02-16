@@ -24,6 +24,7 @@ Extended notes on specific aspects of this practice.
 - [Sycophancy](sycophancy.md) -- On AI's compulsion to please, and what it reveals.
 - [Tripartite Collaboration](tripartite.md) -- On working with AI as a third entity, not a tool.
 - [Sovereignty](souverainete.md) -- On running AI locally, understanding every link, and why it matters for art.
+- [Verbatim Cinema](verbatim.md) -- On reconstruction from documents, and films that are neither true nor false.
 
 ---
 
@@ -42,6 +43,10 @@ Films, books, artists, and thinkers that shaped this practice. Not a ranked list
 | Forensic Architecture | Investigation as aesthetic practice. Spatial and temporal reconstruction. |
 | Philippe Grandrieux | *Sombre*, *Un lac*. The body as image beyond representation. |
 | Romain Champalaune | *Vie & Mort d'Oscar Perez*. |
+| David Fincher | *Zodiac*, *The Social Network*, *Mindhunter*. Obsessive reconstruction from documents. Precision as method. |
+| Jonathan Glazer | *The Zone of Interest*. The real filmed through its absence. |
+| Tina Satter | *Reality*. Verbatim cinema from FBI transcripts. The redacted as form. |
+| *Adolescence* | Single-take procedural reconstruction. The system as dramaturgy. |
 
 #### Art & digital art
 
