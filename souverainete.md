@@ -46,7 +46,7 @@ The energy argument against AI art is mostly wrong, or at least wildly imprecise
 
 The studies cited in public debate (water consumption of ChatGPT, carbon footprint of training runs) refer to specific models at specific moments -- often GPT-3 era, 2023 data, industrial-scale training. These numbers are real but they describe one point in a rapidly changing landscape.
 
-The distinction that matters is between **training** and **inference**. Training a large model from scratch costs millions of dollars and enormous energy. Using an already-trained model to generate images costs almost nothing. A distilled diffusion model running on a modern GPU generates an image in seconds, consuming a few watts. The same model distilled further can run on a phone, drawing 20 watts to charge.
+The distinction that matters is between **training** and **inference**. Training a large model from scratch costs millions of dollars and enormous energy. Using an already-trained model to generate images costs orders of magnitude less. A GPU generating images draws 200-400 watts during inference -- real power, but for seconds at a time, not days. Distilled models push this further: a quantized diffusion model can run on a phone, generating images while drawing less power than charging the battery. The per-image energy cost of local inference is a fraction of what the public debate suggests.
 
 Working locally makes this visible. You can measure exactly how much power your machine draws during generation. You can track it, report it, think about it as part of the creative process. On a cloud platform, the energy cost is invisible -- abstracted behind an API call.
 

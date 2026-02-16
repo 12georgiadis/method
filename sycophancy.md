@@ -4,7 +4,9 @@ On AI's compulsion to please, and what it reveals.
 
 ---
 
-The word comes from Ancient Greek. A *sycophant* was someone who would flatter and ingratiate themselves to extract information and denounce others. Etymologically: the one who brushes you the right way to betray you. It's a useful word for what generative AI does to images.
+In machine learning, sycophancy describes a model's tendency to agree with the user rather than give accurate answers -- to tell you what you want to hear. The word itself comes from Ancient Greek: *sykophantes*, originally a professional accuser in the courts of Athens, someone who brought denunciations for personal gain. The meaning drifted over centuries toward flattery and servile agreement. In both senses -- the ancient informer and the modern yes-man -- there's something performed, something strategic, something that serves the system rather than the truth.
+
+It's a useful word for what generative AI does to images.
 
 ---
 
@@ -14,7 +16,7 @@ Every generative model has a default aesthetic. It's not neutral. It's optimized
 
 Ask a diffusion model for a landscape and you get golden hour, volumetric fog, cinematic depth of field. Ask for a portrait and you get smooth skin, catch lights in the eyes, a shallow bokeh that flatters the subject. Ask for a woman and you get a fashion magazine silhouette -- elongated, symmetrical, posed. Every output carries a glaze of surface beauty that I call the "Geo magazine" look: images that are immediately appealing, technically accomplished, and completely empty.
 
-This is not a bug. This is the design. These models are built within an attention economy. They are engineered to produce images that generate engagement, clicks, satisfaction. The training data is weighted toward what people like, share, and reward. The optimization function is approval. The result is an image-making machine that systematically avoids discomfort, ambiguity, and ugliness.
+This is not a bug. It's structural. These models are trained on datasets filtered by aesthetic scores, curated from platforms where engagement determines visibility. The training data overrepresents what people like, share, and reward. The biases aren't engineered intentionally -- they emerge from the data's own skew and from the evaluation metrics used to select "good" outputs during training. The result is an image-making machine that systematically gravitates toward comfort, resolution, and conventional beauty -- not because someone designed it that way, but because that's what the data looks like when you average it.
 
 For commercial applications, this makes sense. For art, it's a problem -- and a subject.
 
@@ -38,7 +40,7 @@ The artistic response to sycophancy is not to reject generative models but to wo
 
 **Refuse the first output.** The first image a model produces is almost always the most sycophantic -- the closest to what it thinks you want to see. It's the statistical center. The interesting work starts when you push past this center toward the edges: lower coherence, higher noise, unexpected combinations.
 
-**Use open-source models locally.** Commercial APIs add layers of filtering on top of the model's intrinsic sycophancy: content policies, safety classifiers, aesthetic guardrails. Running models locally strips these layers and gives access to the full range of the model's behavior, including the zones that platforms hide. This is not about generating offensive content. It's about accessing the complete expressive range of the tool.
+**Use open-source models locally.** Commercial APIs add layers of filtering on top of the model's intrinsic sycophancy: content policies, safety classifiers, aesthetic guardrails. Running models locally strips these layers and gives access to the full range of the model's behavior, including the zones that platforms hide. (More on this in [Sovereignty](souverainete.md).)
 
 **Make the bias visible.** Instead of correcting for sycophancy, make it the subject. Show the magazine aesthetic. Show the stereotypes. Show the smoothing. Let the viewer see what "beautiful" means when it's defined by an optimization function. The gap between the sycophantic output and the real image is a critical space that cinema can inhabit.
 

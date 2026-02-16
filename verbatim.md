@@ -50,7 +50,7 @@ This third space is where I work.
 
 When a diffusion model generates an image from a real photograph of a real person, the result contains traces of the original -- but also traces of everything else in the model's training data. The generated image is a chimera: part document, part statistical average of human visual production. It's simultaneously specific (this person, this place, this moment) and generic (every similar person, place, moment the model has ever seen).
 
-For a subject like Goldberg -- someone who was already multiple people, already performing contradictory identities, already blurring the line between real and fabricated -- this chimeric quality is not a distortion of the truth. It's the most accurate representation of it. The multiplication inherent in generative AI mirrors the multiplication inherent in the subject.
+For a subject like Goldberg -- someone who was already multiple people, already performing contradictory identities, already blurring the line between real and fabricated -- this chimeric quality is not a distortion of the truth. It's the most accurate representation of it. The multiplication inherent in generative AI mirrors the multiplication inherent in the subject. (This is the [hybridization of the real](ecritures-liquides.md) at its most literal.)
 
 ---
 
@@ -72,9 +72,9 @@ AI adds a new kind of procedure: the computational transformation of real materi
 
 ### What verbatim cinema is not
 
-It's not re-enactment. Re-enactment claims to recreate what happened. Verbatim cinema doesn't claim to recreate -- it claims to use real material.
+It shares territory with re-enactment but differs in one key respect. Re-enactment imagines how events might have unfolded -- it fills gaps, invents dialogue, dramatizes. Verbatim cinema stays anchored to the source text. *Reality* is re-enacted in the sense that actors perform a scene, but every word comes from a real transcript. The performance is constructed; the language is not. The distinction is about the relationship to the source material, not about whether actors are involved.
 
-It's not docufiction. Docufiction mixes documentary and fictional elements. Verbatim cinema doesn't mix -- it transforms. The material is entirely real. The treatment is entirely constructed.
+It's not docufiction. Docufiction invents fictional elements and places them alongside documentary ones. Verbatim cinema doesn't invent -- it transforms. The material is entirely real. The treatment is entirely constructed.
 
 It's not deepfake. Deepfakes aim to deceive -- to produce images that pass as unaltered recordings. Verbatim cinema with AI aims to reveal -- to show what happens when real material meets computational transformation. The goal is not to fool anyone. The goal is to make visible a process that produces something neither true nor false, but real in a different way.
 

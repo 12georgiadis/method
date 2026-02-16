@@ -25,6 +25,8 @@ Extended notes on specific aspects of this practice.
 - [Tripartite Collaboration](tripartite.md) -- On working with AI as a third entity, not a tool.
 - [Sovereignty](souverainete.md) -- On running AI locally, understanding every link, and why it matters for art.
 - [Verbatim Cinema](verbatim.md) -- On reconstruction from documents, and films that are neither true nor false.
+- [Post-Documentary](post-documentary.md) -- On what happens to the real when AI enters documentary practice.
+- [Post-Photography](post-photography.md) -- On the photographic image after generative AI.
 
 ---
 
@@ -36,6 +38,7 @@ Films, books, artists, and thinkers that shaped this practice. Not a ranked list
 
 | | |
 |---|---|
+| Jean-Luc Godard | *Histoire(s) du cinéma*. The entire history of images through a single consciousness. |
 | Harun Farocki | *Parallel I-IV*, *Eye/Machine*. Operational images, gaming as representation. |
 | Chris Marker | *Sans Soleil*, *Level Five*. Essay film as research method. Memory as montage. |
 | Peter Tscherkassky | *Outer Space*. Cinema's experimental grammar at its origin. |
@@ -46,7 +49,7 @@ Films, books, artists, and thinkers that shaped this practice. Not a ranked list
 | David Fincher | *Zodiac*, *The Social Network*, *Mindhunter*. Obsessive reconstruction from documents. Precision as method. |
 | Jonathan Glazer | *The Zone of Interest*. The real filmed through its absence. |
 | Tina Satter | *Reality*. Verbatim cinema from FBI transcripts. The redacted as form. |
-| *Adolescence* | Single-take procedural reconstruction. The system as dramaturgy. |
+| Stephen Graham & Jack Thorne | *Adolescence*. Single-take procedural reconstruction. The system as dramaturgy. |
 
 #### Art & digital art
 
@@ -59,6 +62,7 @@ Films, books, artists, and thinkers that shaped this practice. Not a ranked list
 | Mark Lombardi | Narrative structures. Data visualization as investigation. |
 | Holly Herndon & Mat Dryhurst | *Holly+*, Spawning. AI as collaborative creative entity. |
 | Ian Cheng | *Emissaries*. Autonomous simulations as narrative. |
+| Joan Fontcuberta | Fabricated documents, the crisis of photographic truth. Post-photography before the term existed. |
 | Gerhard Richter | Painting at the limit of photography. |
 | Francis Bacon | The figure against representation. |
 

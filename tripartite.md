@@ -40,7 +40,7 @@ One technique I use extensively is recursive generation: feeding the AI's output
 
 This is comparable to what experimental filmmakers have done with re-photography and optical printing -- the image degrading and transforming with each generation, accumulating artifacts that become the texture of the work. IP adapters (using 1 to 4 reference images as stylistic anchors) combined with this recursive loop produce what I think of as composite matter: images that are neither documentary nor fictional, neither original nor copy, but a new material made from the friction between all of these.
 
-The result is something like a visual remix -- not in the superficial sense of collage, but in the sense of Tscherkassky's optical printing or the way Tarantino metabolizes cinema history. The source material passes through a process that transforms it fundamentally while retaining traces of its origin.
+The result is something like a visual remix -- not in the superficial sense of collage, but in the sense of Tscherkassky's optical printing or Godard's *Histoire(s) du cinéma*, where the entire history of images is run through a single authorial consciousness. The source material passes through a process that transforms it fundamentally while retaining traces of its origin.
 
 ---
 
@@ -52,7 +52,7 @@ Treating AI as a third collaborator rather than a tool changes three things:
 
 **The process becomes dialogical.** Instead of input/output, you have a conversation. You propose, the model responds, you react to its response, it generates again. The work emerges from the exchange, not from a plan executed by a machine. This dialogue is asymmetric -- the model doesn't have intentions -- but it's still a dialogue in the sense that both parties contribute something the other couldn't produce alone.
 
-**Failure becomes information.** When a tool fails, you fix it or replace it. When a collaborator fails, you learn something about the limits of the collaboration. The model's refusals, its blind spots, its aesthetic defaults are all data about what the model is and what it can't do. That information feeds directly into the work.
+**Failure becomes information.** When a tool fails, you fix it or replace it. When a collaborator fails, you learn something about the limits of the collaboration. The model's refusals, its blind spots, its aesthetic defaults -- its [sycophancy](sycophancy.md) -- are all data about what the model is and what it can't do. That information feeds directly into the work. And the conditions that enable this kind of free, unconstrained collaboration -- local models, data sovereignty, full access to model behavior -- are inseparable from the practice itself (see [Sovereignty](souverainete.md)).
 
 ---
 
