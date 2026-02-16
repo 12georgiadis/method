@@ -16,6 +16,17 @@ This is not a tutorial. Not a framework. Not a manifesto in the traditional sens
 
 ---
 
+### Essays
+
+Extended notes on specific aspects of this practice.
+
+- [Liquid Writing](ecritures-liquides.md) -- On porous boundaries between writing, shooting, and editing.
+- [Sycophancy](sycophancy.md) -- On AI's compulsion to please, and what it reveals.
+- [Tripartite Collaboration](tripartite.md) -- On working with AI as a third entity, not a tool.
+- [Sovereignty](souverainete.md) -- On running AI locally, understanding every link, and why it matters for art.
+
+---
+
 ### Influences
 
 Films, books, artists, and thinkers that shaped this practice. Not a ranked list -- a map of connections.
