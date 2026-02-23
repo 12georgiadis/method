@@ -84,9 +84,26 @@ How I use AI tools for documentary research and artistic production.
 
 #### Tools
 
-- **Claude Code** as primary collaborator (config, workflows, and rationale documented in [claude-code-workflow](https://github.com/12georgiadis/claude-code-workflow))
-- **ComfyUI** for generative image/video pipelines (architecture documented in [comfyui-cinema-pipeline](https://github.com/12georgiadis/comfyui-cinema-pipeline))
-- **Magic Lantern / open hardware** for RAW cinema capture (workflows in [open-source-cinema](https://github.com/12georgiadis/open-source-cinema))
+**Research & thinking**
+- **Claude Code** as primary collaborator — config, workflows, and rationale in [claude-code-workflow](https://github.com/12georgiadis/claude-code-workflow)
+- 38 agent personas (filmmakers, philosophers, artists) for structured creative consultation
+
+**Generative production**
+- **ComfyUI** for image/video generation pipelines — architecture in [comfyui-cinema-pipeline](https://github.com/12georgiadis/comfyui-cinema-pipeline)
+- **Blender VSE + Pallaidium** for AI generation inside the editing timeline (stills → video, ControlNet-guided sequences)
+- **LTX-2, Wan 2.2, Flux.2, HunyuanVideo** — current model stack for video generation
+
+**Editing & post-production**
+- **Final Cut Pro 12** as primary NLE (assemblage, offline editing, semantic transcript search) — workflows in [fcp-workflow](https://github.com/12georgiadis/fcp-workflow)
+- **DaVinci Resolve** for color grading and online conform
+- **VoiceInk** for offline voice dictation
+
+**Capture**
+- **Magic Lantern / open hardware** for RAW cinema capture — workflows in [open-source-cinema](https://github.com/12georgiadis/open-source-cinema)
+
+**Infrastructure**
+- RTX 5090 (GPU inference, ComfyUI), Mac Mini M4 (always-on server, Paris), MacBook Air M3 (primary workstation)
+- Tailscale mesh VPN connecting all machines
 
 #### Approach
 
@@ -101,8 +118,12 @@ Research is not a phase that precedes production. Research *is* production.
 
 ### Current work
 
+**Films**
 - *The Goldberg Variations* -- hybrid feature on Joshua Ryne Goldberg and the multiplication of online identities. Villa Albertine 2026.
 - *Virus* -- hybrid feature on Mihai Ionut Paunescu and cybercrime infrastructure.
+
+**Next territory**
+- Video games with AI — applying the same methodology (post-documentary, liquid writing, alteration over augmentation) to interactive narrative and game worlds.
 
 ---
 
